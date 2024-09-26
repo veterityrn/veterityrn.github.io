@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://veterityrn.github.io/sitemap.veterityrn.gz
+Sitemap: https://veterityrn.github.io/app/sitemap.veterityrn.gz
+Sitemap: https://veterityrn.github.io/assets/sitemap.veterityrn.gz
+Sitemap: https://veterityrn.github.io/css/sitemap.veterityrn.gz
+Sitemap: https://veterityrn.github.io/data/sitemap.veterityrn.gz
+Sitemap: https://veterityrn.github.io/includes/sitemap.veterityrn.gz
+Sitemap: https://veterityrn.github.io/item/sitemap.veterityrn.gz
+Sitemap: https://veterityrn.github.io/src/sitemap.veterityrn.gz
